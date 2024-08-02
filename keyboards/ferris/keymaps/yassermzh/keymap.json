@@ -65,9 +65,9 @@
         // Layer 5: mac
         [
             "ANY(LGUI(LSFT(KC_4)))", "KC_TRNS", "KC_COLN", "KC_ESC", "KC_TRNS",
-                "KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_DEL",
+                "ANY(LCTL(LSFT(KC_8)))", "ANY(LCTL(LSFT(KC_1)))", "ANY(LCTL(LSFT(KC_5)))", "ANY(LCTL(LSFT(KC_7)))", "KC_DEL",
             "KC_TRNS", "KC_PERC", "KC_SLSH", "KC_ENT", "KC_TRNS",
-                "DF(1)", "KC_LSFT", "KC_TRNS", "KC_TRNS", "KC_TRNS",
+                "DF(1)", "ANY(LCTL(LSFT(KC_3)))", "ANY(LCTL(LSFT(KC_2)))", "KC_TRNS", "KC_TRNS",
             "KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_EXLM", "KC_TRNS",
                 "DF(0)", "KC_TRNS", "RALT_T(KC_COMM)", "RCTL_T(KC_DOT)", "QK_BOOT",
             "LSFT(KC_TAB)", "KC_TAB",
